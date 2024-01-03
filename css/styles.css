@@ -1,0 +1,62 @@
+body {
+  font-family: "Roboto", "Raleway", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
+.logo {
+  font-size: 18px;
+  line-height: 1.16;
+  color: #4d5ae5;
+}
+
+.logo-accent {
+  color: #2e2f42;
+}
+
+.list {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #2e2f42;
+  font-weight: 500;
+}
+.contacts {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+}
+.contacts:hover,
+.contacts:focus {
+  color: #404bbf;
+}
+
+.button {
+  font-size: 16px;
+  color: #fff;
+  font-weight: 500;
+  line-height: 1.5;
+  cursor: pointer;
+}
+
+.list-second {
+  font-size: 20px;
+  line-height: 1.2;
+  color: #2e2f42;
+  font-weight: 500;
+}
+.text {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+}
+.title {
+  font-size: 56px;
+  color: #fff;
+  line-height: 1.07;
+  font-weight: 700;
+}
+.final-text {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #f4f4fd;
+}
