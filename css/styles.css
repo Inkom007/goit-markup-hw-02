@@ -18,24 +18,17 @@ body {
   color: #2e2f42;
 }
 
-.list-one {
-  font-size: 16px;
-  line-height: 1.5;
-  color: #2e2f42;
-  font-weight: 500;
-  letter-spacing: 0.02em;
-}
-.list-one:hover,
-.list-one:focus {
-  color: #404bbf;
-}
-
 .list {
   font-size: 16px;
   line-height: 1.5;
   color: #2e2f42;
   font-weight: 500;
   letter-spacing: 0.02em;
+}
+
+.list:hover,
+.list:focus {
+  color: #404bbf;
 }
 
 .address {
