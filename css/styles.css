@@ -89,7 +89,7 @@ body {
   letter-spacing: 0.02em;
 }
 
-.section-four {
+.section-three {
   background-color: #f4f4fd;
 }
 
@@ -101,6 +101,11 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
+
+.list-four {
+  background-color: #ffffff;
+}
+
 .background {
   background-color: #ffffff;
 }
